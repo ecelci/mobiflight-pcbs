@@ -7,7 +7,7 @@ Since up to 8 MAX chips can be connected in a single daisy chain, this PCB was d
 
 In case of space problems, this 2nd PCB can be mounted in a different location. It couldn't be easier or more comfortable.
 
-It is therefore still possible to control up to 8 digits per MAX chip and as a daisy chain up to 8 x 8 digits, i.e. 64 digits. Since a Mega Module can control up to 4 separate MAX daisy chains, up to 4 x 64, i.e. 256 digits, are possible per Mobiflight board (e.g., [the MEGA Pro Mini](https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini)).
+It is therefore still possible to control up to 8 digits per MAX chip and as a daisy chain up to 8 x 8 digits, i.e. 64 digits. Since a Mega Module can control up to 4 separate MAX daisy chains, up to 4 x 64, i.e. 256 digits, are possible per Mobiflight board (e.g., [the MEGA Pro Mini](https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c)).
 
 ## Connectors
 There are two box headers (straight type) assigned to each MAX chip for more flexibility and efficient use.
